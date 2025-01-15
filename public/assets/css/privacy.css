@@ -1,0 +1,18 @@
+.privacy-main {
+    width: 80%;
+    margin: 10% auto;
+    padding: 20px;
+}
+
+.privacy-main section{
+    margin-bottom: 10rem;
+}
+
+.privacy-main h2 {
+    color: #FFF;
+    margin-left: 0;
+}
+
+.privacy-main ul {
+    list-style-type: disc;
+}
