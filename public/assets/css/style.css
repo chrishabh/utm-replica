@@ -1266,7 +1266,7 @@ ul {
 
 .sec-title h2 {
     position: relative;
-    color: #fff;
+    color: var(--text-color);
     font-size: 36px;
     font-weight: 700;
     line-height: 1.5em;
@@ -1298,7 +1298,7 @@ ul {
 
 .contact-page-section .form-column .inner-column {
     position: relative;
-    padding: 60px 45px 30px;
+    /* padding: 60px 45px 30px; */
     background-color: #fff
 }
 
@@ -1351,7 +1351,8 @@ ul {
 }
 
 .contact-form {
-    position: relative
+    position: relative;
+    display: none;
 }
 
 .contact-form .form-group {
