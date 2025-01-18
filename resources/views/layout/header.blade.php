@@ -89,13 +89,13 @@
                                     <div class="nav__left">
                                         <ul>
                                             <li>
-                                                <h2><a href="/home">Home</a></h2>
+                                                <h2><a href="/">Home</a></h2>
                                             </li>
                                             <li>
                                                 <h2><a href="/about">About Us</a></h2>
                                             </li>
                                             <li>
-                                                <h2><a href="services">Services</a></h2>
+                                                <h2><a href="/services">Services</a></h2>
                                             </li>
                                             {{-- <li>
                                                     <h2><a href="portfolio">Portfolio</a></h2>

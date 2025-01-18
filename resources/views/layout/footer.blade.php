@@ -138,7 +138,7 @@
         <div class="row">
             <div class="col-xl-12 col-lg-12 text-center text-lg-center">
                 <div class="copyright-text">
-                    <p>Copyright © 2023, All Right Reserved <a hre="" f="#">bigLead</a></p>
+                    <p>Copyright © 2024, All Right Reserved <a hre="" f="#">bigLead</a></p>
                 </div>
             </div>
         </div>

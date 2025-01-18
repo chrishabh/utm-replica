@@ -401,20 +401,20 @@ h2 {
 #social .link a {
     font-size: 1.25vw;
     margin: 0.5rem 1rem;
-    color: #FFF;
+    color: var(--text-color);
 }
 
 #social a .ri-twitter-fill,
 .ri-facebook-fill,
 .ri-linkedin-box-fill {
-    color: #fff;
+    color: var(--text-color);
     opacity: 0.9;
 }
 
 #social a .ri-twitter-fill:hover,
 .ri-facebook-fill:hover,
 .ri-linkedin-box-fill:hover {
-    color: #FFF;
+    color: var(--text-color);
     opacity: 1;
 }
 
@@ -540,17 +540,19 @@ h2 {
 
 #menuNavbar__containerMenu a {
     text-decoration: none;
-    color: #fff;
+    color: var(--text-color);
     opacity: 0.7;
     text-transform: uppercase;
 }
 
 #menuNavbar__containerMenu a h5 {
     font-size: 2rem;
+    color: var(--text-color);
 }
 
 #menuNavbar__containerMenu a img {
     width: 34px;
+    filter: invert(1);
 }
 
 #menuNavbar__containerMenu a:hover {
@@ -629,6 +631,7 @@ h2 {
 
 #navigation .navigation_container .nav__right .nav__rightTop img {
     width: 45px;
+    filter: invert(1);
 }
 
 #navigation .navigation_container .nav__right .nav__rightTop .email a {
