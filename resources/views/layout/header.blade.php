@@ -112,10 +112,10 @@
                                                     srcset="">
                                                 &nbsp;
                                                 <p>
-                                                    D-003, <br>
-                                                    KDP Grand Savanna, <br>
-                                                    Raj Nagar Extention Road, <br>
-                                                    Ghaziabad - 201017 (U.P), <br>
+                                                    B-106, <br>
+                                                    R K Puram, <br>
+                                                    GovindPuram, <br>
+                                                    Ghaziabad - 201013 (U.P), <br>
                                                     India.
                                                 </p>
                                             </div>
@@ -123,14 +123,14 @@
                                                 <img src="{{ asset('assets/images/glyphs/phone.gif') }}" alt="phone"
                                                     srcset="">
                                                 &nbsp;
-                                                <p>+91 - 9910011291</p>
+                                                <p>+91 - XXXXXXXXXX</p>
                                             </div>
                                             <div class="email">
                                                 <img src="{{ asset('assets/images/glyphs/mail.gif') }}" alt="home"
                                                     srcset="">
                                                 &nbsp;
-                                                <a href="mailto:pankaj@utmdigital.com ">
-                                                    pankaj@utmdigital.com
+                                                <a href="mailto:bigleadsupport@biglead.in ">
+                                                bigleadsupport@biglead.in
                                                 </a>
                                             </div>
                                         </div>
