@@ -31,8 +31,8 @@
                 <img src="{{asset('assets/images/logos/chip.png')}}" alt="chip" />
             </div>
             <div class="about_listCardBottom">
-                <h3>Tech Savvy</h3>
-                <p>New Technology? We’ve got it all. It helps us but it makes your life a lot easy!</p>
+                <h3>Embracing Innovation</h3>
+                <p>Staying ahead with the latest technology to simplify your life and enhance your success.</p>
             </div>
         </div>
         <div class="about_listCard">
@@ -40,8 +40,8 @@
                 <img src="{{asset('assets/images/logos/rts.png')}}" alt="rts" />
             </div>
             <div class="about_listCardBottom">
-                <h3>Real-Time support</h3>
-                <p>We work 24x7. Is there a holiday in Online Business? No, not really.</p>
+                <h3>Around-the-Clock Support</h3>
+                <p>Available 24/7, because the digital world never sleeps—and neither do we.</p>
             </div>
         </div>
         <div class="about_listCard">
@@ -49,8 +49,8 @@
                 <img src="{{asset('assets/images/logos/rating.png')}}" alt="rating"/>
             </div>
             <div class="about_listCardBottom">
-                <h3>Experience Of A Decade</h3>
-                <p>Do we have grey hair? No. But yes, we have a whole lot of experience.</p>
+                <h3>Proven Expertise</h3>
+                <p>Years of experience have equipped us to handle challenges and deliver exceptional outcomes.</p>
             </div>
         </div>
         <div class="about_listCard">
@@ -58,8 +58,8 @@
                 <img src="{{asset('assets/images/logos/roi.png')}}" alt="roi"/>
             </div>
             <div class="about_listCardBottom">
-                <h3>ROI Measurement</h3>
-                <p>You have budgets, so do we. We make sure every penny is worth it! </p>
+                <h3>Optimizing Every Dollar</h3>
+                <p>We value your budget and ensure every cent is used effectively to achieve great results.</p>
             </div>
         </div>
     </div>

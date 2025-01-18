@@ -50,7 +50,7 @@
     <div id="main">
         <section id="navbar" >
             <div id="navbar__containerLogo">
-                <a href="home">
+                <a href="/">
                     <img src="{{ asset('assets/images/logos/big-deal-logo.png') }}" alt="logo">
                 </a>
             </div>

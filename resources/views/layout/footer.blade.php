@@ -9,10 +9,10 @@
                         <img src="{{ asset('assets/images/glyphs/location.gif') }}" alt="location" />
                         <div class="cta-text">
                             <h4>Find us</h4>
-                            <span>D-003, <br>
-                                KDP Grand Savanna, <br>
-                                Raj Nagar Extention Road, <br>
-                                Ghaziabad - 201017 (U.P), <br>
+                            <span>B-106, <br>
+                                R K Puram, <br>
+                                GovindPuram, <br>
+                                Ghaziabad - 201013 (U.P), <br>
                                 India.</span>
                         </div>
                     </div>
@@ -23,7 +23,7 @@
                         <img src="{{ asset('assets/images/glyphs/phone.gif') }}" alt="location" />
                         <div class="cta-text">
                             <h4>Call us</h4>
-                            <span>+91 - 9910011291</span>
+                            <span>+91 - xxxxxxxxx</span>
                         </div>
                     </div>
 
@@ -32,7 +32,7 @@
                         <img src="{{ asset('assets/images/glyphs/mail.gif') }}" alt="mail" />
                         <div class="cta-text">
                             <h4>Mail us</h4>
-                            <span>pankaj@utmdigital.com</span>
+                            <span>bigleadsupport@biglead.in</span>
                         </div>
                     </div>
                 </div>
@@ -47,7 +47,7 @@
                             
                             
                         </div>-->
-                    <a href="https://www.google.com/partners/agency?id=9371678466" target="_blank">
+                    <a href="https://www.google.com/partners/agency?id=" target="_blank">
                         <img src="https://www.gstatic.com/partners/badge/images/2024/PartnerBadgeClickable.svg">
                     </a>
                 </div>
@@ -58,16 +58,14 @@
                 <div class="col-xl-4 col-lg-4 mb-50">
                     <div class="footer-widget">
                         <div class="footer-logo">
-                            <a href="home"><img src= "{{asset('assets/images/logos/big-deal-logo.png')}}" class="img-fluid" alt="logo"></a>
+                            <a href="/"><img src= "{{asset('assets/images/logos/big-deal-logo.png')}}" class="img-fluid" alt="logo"></a>
                         </div>
                         <div class="footer-text">
-                            <p>BigDeal is a Digital Agency with diversified services to cater to all the important
-                                aspects of the Digital Media. With a volatile environment and fast technological
-                                advancements, we keep track of the solutions that we offer.</p>
+                            <p>BigDeal is a digital agency offering a wide range of services designed to address every crucial aspect of digital media. In today’s ever-changing landscape and rapidly evolving technology, we remain committed to staying ahead by consistently monitoring and refining the solutions we provide.</p>
                         </div>
                         <div class="footer-social-icon">
                             <span>Follow us</span>
-                            <a href="https://twitter.com/utm_digital" target="_blank"><svg
+                            <a href="https://twitter.com/big_lead" target="_blank"><svg
                                     class="svg-inline--fa fa-x-twitter" aria-hidden="true" focusable="false"
                                     data-prefix="fab" data-icon="x-twitter" role="img"
                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg="">
@@ -75,7 +73,7 @@
                                         d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z">
                                     </path>
                                 </svg><!-- <i class="fa-brands fa-x-twitter"></i> Font Awesome fontawesome.com --></a>
-                            <a href="https://www.facebook.com/people/UTM-Digital/100034999825988/"
+                            <a href="https://www.facebook.com/people/"
                                 target="_blank"><svg class="svg-inline--fa fa-facebook-f" aria-hidden="true"
                                     focusable="false" data-prefix="fab" data-icon="facebook-f" role="img"
                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" data-fa-i2svg="">
@@ -83,7 +81,7 @@
                                         d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z">
                                     </path>
                                 </svg><!-- <i class="fa-brands fa-facebook-f"></i> Font Awesome fontawesome.com --></a>
-                            <a href="https://www.linkedin.com/company/utm-digital" target="_blank"><svg
+                            <a href="https://www.linkedin.com/company/big-lead" target="_blank"><svg
                                     class="svg-inline--fa fa-linkedin" aria-hidden="true" focusable="false"
                                     data-prefix="fab" data-icon="linkedin" role="img"
                                     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg="">
@@ -103,9 +101,8 @@
                             <li><a href="home">Home</a></li>
                             <li><a href="about">About</a></li>
                             <li><a href="/services">Services</a></li>
-                            {{-- <li><a href="/portfolio">Portfolio</a></li> --}}
                             <li><a href="/contact">Contact</a></li>
-                            <li><a href="privacy-policy">Privacy Policy</a></li>
+                            <!-- <li><a href="privacy-policy">Privacy Policy</a></li> -->
                         </ul>
                     </div>
                 </div>
@@ -118,7 +115,7 @@
                             <p>Don’t miss to subscribe to our new feeds, kindly fill the form below.</p>
                         </div>
                         <div class="subscribe-form">
-                            <form action="admin/code.php" method="POST">
+                            <form action="/" method="POST">
                                 <input type="text" name="sub_email" placeholder="Email Address">
                                 <button type="submit" name="sub_submit"><svg class="svg-inline--fa fa-telegram"
                                         aria-hidden="true" focusable="false" data-prefix="fab"
@@ -141,7 +138,7 @@
         <div class="row">
             <div class="col-xl-12 col-lg-12 text-center text-lg-center">
                 <div class="copyright-text">
-                    <p>Copyright © 2023, All Right Reserved <a hre="" f="#">UTM DIGITAL</a></p>
+                    <p>Copyright © 2023, All Right Reserved <a hre="" f="#">bigLead</a></p>
                 </div>
             </div>
         </div>

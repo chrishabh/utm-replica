@@ -33,20 +33,20 @@
 
                             <h1 class="boundingElement"
                                 style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px);">
-                                Innovative Techniques With </h1>
+                                Creative Strategies with </h1>
                         </div>
                         <div class="blocktext">
                             <div class="bounding">
 
                                 <h2 class="boundingElement"
                                     style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px);">
-                                    Great Impact Ideas</h2>
+                                    Powerful Impact</h2>
                             </div>
                             <div class="bounding">
 
                                 <h5 class="boundingElement"
                                     style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px);">
-                                    for all your business needs</h5>
+                                    Transforming your business with innovative solutions</h5>
                             </div>
                         </div>
                     </div>
@@ -192,8 +192,7 @@
             <div class="row services_firstRow">
                 <div class="col-6 services_rowLeft">
                     <h2>Search Engine Marketing</h2>
-                    <h3>Everyone wants to search for the best they can get, and this is what make Keywords
-                        priceless. With Our Expert team we can turn your campaign to a successful goal.</h3>
+                    <h3>Everyone searches for the best, and that’s what makes keywords so valuable. With our expert team, we can transform your campaigns into measurable success stories.</h3>
                 </div>
                 <div class="col-6 services_rowRight">
                     <div class="services_img">
@@ -211,15 +210,13 @@
                 </div>
                 <div class="col-6 services_rowRight">
                     <h2>Video Advertising</h2>
-                    <h3>With our expert team, hope you are ready to increase your CTR and reduce your Cost per View
-                        cost with bigLEAD Digital.</h3>
+                    <h3>Our skilled team is ready to help you increase your click-through rates while reducing your cost per view. Let BigLEAD Digital make your video campaigns more impactful.</h3>
                 </div>
             </div>
             <div class="row services_firstRow">
                 <div class="col-6 services_rowLeft ">
                     <h2>Native Advertising</h2>
-                    <h3>We are partner with various Native platforms and providing amazing results for our existing
-                        Advertisers.</h3>
+                    <h3>We collaborate with a range of native advertising platforms, delivering outstanding results to our advertisers and ensuring maximum reach.</h3>
                 </div>
                 <div class="col-6 services_rowRight">
                     <div class="services_img">
@@ -238,15 +235,13 @@
                 </div>
                 <div class="col-6 services_rowRight">
                     <h2>Social Media Presence</h2>
-                    <h3>Everyone loves their social media presence in today world, we have multiple ideas to build a
-                        Better Social Media presence for Your or your business.</h3>
+                    <h3>Social media is an essential part of today’s digital landscape. We bring innovative ideas to help you or your business build a strong and effective social media presence.</h3>
                 </div>
             </div>
             <div class="row services_firstRow">
                 <div class="col-6 services_rowLeft ">
                     <h2>Initial Media Planning</h2>
-                    <h3>We care your business with same curiosity like ours Own. We do audience research of your
-                        business and structure your business with deep analysis before executing.</h3>
+                    <h3>We approach your business with the same dedication and curiosity as if it were our own. Through detailed audience research and strategic analysis, we lay the groundwork for successful campaigns.</h3>
                 </div>
                 <div class="col-6 services_rowRight">
                     <div class="services_img">
@@ -265,9 +260,7 @@
                 </div>
                 <div class="col-6 services_rowRight">
                     <h2>Media Buying</h2>
-                    <h3>An Important and very crucial part of any Digital campaign. bigLEAD Digital allows you to
-                        promote your business in every possible way to reach 100% audience related to your business.
-                    </h3>
+                    <h3>Media buying is a critical element of any digital campaign. BigLEAD Digital ensures your business reaches the right audience through comprehensive and optimized promotion strategies.</h3>
                 </div>
             </div>
 
@@ -396,10 +389,10 @@
                                             </span>
                                             <div class="testinomial-text">
                                                 <p class="bottom-40">
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ullam sit veniam excepturi velit? Molestiae, culpa alias nam magnam corrupti laborum delectus commodi quis modi distinctio rerum harum porro ad.
+                                                BigLead transformed our online presence. Their innovative strategies and attention to detail have significantly boosted our customer engagement.
                                                 </p>
                                                 <h5 class="name-testmonial">
-                                                    Manoj kumar
+                                                John Smith
                                                 </h5>
                                             </div>
                                         </div>
@@ -411,10 +404,9 @@
                                             </span>
                                             <div class="testinomial-text">
                                                 <p class="bottom-40">
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ullam sit veniam excepturi velit? Molestiae, culpa alias nam magnam corrupti laborum delectus commodi quis modi distinctio rerum harum porro ad.
-                                                </p>
+                                                Working with BigLead has been a game-changer for our brand. Their creative team exceeded our expectations and delivered outstanding results.                                                </p>
                                                 <h5 class="name-testmonial">
-                                                    Manoj kumar
+                                                Emily Johnson
                                                 </h5>
                                             </div>
                                         </div>
@@ -426,10 +418,9 @@
                                             </span>
                                             <div class="testinomial-text">
                                                 <p class="bottom-40">
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ullam sit veniam excepturi velit? Molestiae, culpa alias nam magnam corrupti laborum delectus commodi quis modi distinctio rerum harum porro ad.
-                                                </p>
+                                                The expertise at BigLead is unmatched. Their tailored solutions have helped us achieve our business goals seamlessly.                                                </p>
                                                 <h5 class="name-testmonial">
-                                                    Manoj kumar
+                                                Michael Davis
                                                 </h5>
                                             </div>
                                         </div>
@@ -441,10 +432,9 @@
                                             </span>
                                             <div class="testinomial-text">
                                                 <p class="bottom-40">
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ullam sit veniam excepturi velit? Molestiae, culpa alias nam magnam corrupti laborum delectus commodi quis modi distinctio rerum harum porro ad.
-                                                </p>
+                                                From start to finish, BigLead's team has been professional and supportive. They turned our vision into reality with impressive efficiency.                                                </p>
                                                 <h5 class="name-testmonial">
-                                                    Manoj kumar
+                                                Sophia Martinez
                                                 </h5>
                                             </div>
                                         </div>
@@ -456,10 +446,9 @@
                                             </span>
                                             <div class="testinomial-text">
                                                 <p class="bottom-40">
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ullam sit veniam excepturi velit? Molestiae, culpa alias nam magnam corrupti laborum delectus commodi quis modi distinctio rerum harum porro ad.
-                                                </p>
+                                                BigLead's innovative approach to digital marketing has set us apart in a competitive market. Highly recommended!                                                </p>
                                                 <h5 class="name-testmonial">
-                                                    Manoj kumar
+                                                James Brown
                                                 </h5>
                                             </div>
                                         </div>
@@ -471,10 +460,9 @@
                                             </span>
                                             <div class="testinomial-text">
                                                 <p class="bottom-40">
-                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ullam sit veniam excepturi velit? Molestiae, culpa alias nam magnam corrupti laborum delectus commodi quis modi distinctio rerum harum porro ad.
-                                                </p>
+                                                Thanks to BigLead, we’ve seen measurable growth in our online reach. Their team truly understands the digital space.                                                </p>
                                                 <h5 class="name-testmonial">
-                                                    Manoj kumar
+                                                Olivia Wilson
                                                 </h5>
                                             </div>
                                         </div>
