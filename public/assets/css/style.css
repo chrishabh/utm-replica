@@ -42,8 +42,8 @@ body {
     position: fixed;
     width: var(--primary-width);
     height: var(--secondary-height);
-    background-color: var(--background-color);
-    z-index: 99999;
+    background: var(--gradient-background);
+    z-index: 300000000;
     transition: transform 850ms ease-in-out;
     border-bottom: 3px solid var(--primary-color);
 }
@@ -84,7 +84,7 @@ body {
 
 .preloader-dots .dot {
     display: inline-block;
-    background: var(--primary-color);
+    background: var(--text-color);
     height: 8px;
     width: 8px;
     opacity: 0.3;
@@ -491,7 +491,7 @@ h2 {
     position: fixed;
     top: 0;
     right: 0;
-    background-color: #000;
+    background: var(--gradient-background);
     width: 100%;
     height: 100vh;
     /* transform: translateX(100%); */
@@ -515,7 +515,7 @@ h2 {
 .menu {
     width: 100%;
     height: 100vh;
-    background-color: #212121;
+    background-color: var(--gradient-background);
 }
 
 #menu_navbar {
@@ -580,13 +580,13 @@ h2 {
     position: relative;
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
-    color: #FFF;
+    color: var(--text-color);
     opacity: 0.7;
     transition: all cubic-bezier(0.19, 1, 0.22, 1) 1s;
 }
 
 .menu #navigation .nav__left ul li h2 a:hover {
-    color: #FFF;
+    color: var(--text-color);;
     opacity: 1;
 }
 
@@ -616,13 +616,13 @@ h2 {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    border-left: 1px solid #ccc;
+    border-left: 1px solid var(--text-color);
     padding-left: 5rem;
 }
 
 #navigation .navigation_container .nav__right .nav__rightTop {
     font-size: 2rem;
-    color: #fff;
+    color: var(--text-color);;
     opacity: 0.8;
     margin-bottom: 3rem;
 }
@@ -633,13 +633,13 @@ h2 {
 
 #navigation .navigation_container .nav__right .nav__rightTop .email a {
     text-decoration: none;
-    color: #fff;
+    color: var(--text-color);
     opacity: 0.8;
     position: relative;
 }
 
 #navigation .navigation_container .nav__right .nav__rightTop .email a:hover {
-    color: #FFF;
+    color: var(--text-color);
     opacity: 1;
     width: 75%;
 }
@@ -667,7 +667,7 @@ h2 {
 #navigation .navigation_container .nav__right .nav__rightMiddle .connect {
     width: 440px;
     height: 60px;
-    border: 1px solid #fff;
+    border: 1px solid var(--text-color);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -688,7 +688,7 @@ h2 {
 #navigation .navigation_container .nav__right .nav__rightMiddle .connect input[type="email"] {
     border: none;
     background-color: transparent;
-    color: #fff;
+    color: var(--text-color);
     font-size: 2rem;
     padding: 8px;
 }
@@ -701,7 +701,7 @@ h2 {
 
 #navigation .navigation_container .nav__right .nav__rightMiddle .connect .fa-solid {
     font-size: 2.5rem;
-    color: #fff;
+    color: var(--text-color);
     cursor: pointer;
     transition: 300ms ease-in-out;
 }
@@ -723,14 +723,14 @@ h2 {
     margin-left: 5%;
     margin-right: 5%;
     margin-bottom: 10rem;
-    color: #fff;
+    color: var(--text-color);
 }
 
 .brand_header {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    color: #fff;
+    color: var(--text-color);
     margin-top: 15rem;
     margin-bottom: 10rem;
     margin-left: 5%;

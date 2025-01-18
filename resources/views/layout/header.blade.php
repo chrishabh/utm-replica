@@ -7,6 +7,15 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>bigLEAD</title>
     <link rel="icon" href="{{ asset('favicon.ico') }}" type="image/x-icon">
+
+    <link rel="icon" type="image/png" href="{{ asset('favicons/favicon-96x96.png') }}" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="{{ asset('favicons/favicon.svg') }}" />
+    <link rel="shortcut icon" href="{{ asset('favicons/favicon.ico') }}" />
+    <link rel="apple-touch-icon" sizes="180x180" href=" {{ asset('favicons/apple-touch-icon.png') }}" />
+    <link rel="manifest" href="{{ asset('favicons/site.webmanifest') }}" />
+
+
+
     <link rel="stylesheet" href="{{ asset('assets/css/vendor/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/vendor/bootstrap(3.4.1).min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/vendor/fontawesome.min.css') }}">
@@ -32,7 +41,7 @@
     <div id="loading">
         <div class="preloader">
             <div class="loader_img">
-                <img src="{{ asset('assets/images/logos/utm-logo2.png') }}" alt="logo img">
+                <img src="{{ asset('assets/images/logos/big-deal-logo.png') }}" alt="logo img">
             </div>
             <div class="preloader-dots">
                 <div class="dot"></div>
@@ -64,7 +73,7 @@
                         <section class="menu">
                             <section id="menu_navbar">
                                 <div id="menuNavbar__containerLogo">
-                                    <img src="{{ asset('/assets/images/logos/utm-logo2.png') }}" alt="logo">
+                                    <img src="{{ asset('/assets/images/logos/big-deal-logo.png') }}" alt="logo">
                                 </div>
                                 <div id="menuNavbar__containerMenu">
                                     <div class="link">
@@ -80,10 +89,10 @@
                                     <div class="nav__left">
                                         <ul>
                                             <li>
-                                                <h2><a href="home">Home</a></h2>
+                                                <h2><a href="/home">Home</a></h2>
                                             </li>
                                             <li>
-                                                <h2><a href="about">About Us</a></h2>
+                                                <h2><a href="/about">About Us</a></h2>
                                             </li>
                                             <li>
                                                 <h2><a href="services">Services</a></h2>

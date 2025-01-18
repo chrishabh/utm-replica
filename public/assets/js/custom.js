@@ -1,10 +1,9 @@
-var preloader = document.getElementById("loading");
-
-function myLoadingFunction() { 
+var preloader = document.getElementById("loading"); 
+function myLoadingFunction() {   
   setTimeout(() => {
     preloader.style.transform = "translateY(-100%)"; 
     setTimeout(() => {
-        preloader.style.display = "none";
+      preloader.style.display = "none"; 
     }, 850);  
   }, 1000);  
 }
