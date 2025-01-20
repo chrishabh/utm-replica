@@ -53,7 +53,7 @@ $("#brand_carousal").owlCarousel({
 
 $("#testimonial_carousal").owlCarousel({
   items: 3,                 
-  autoplay: false,          
+  autoplay: true,          
   autoplayTimeout: 2500,    
   autoplayHoverPause: true, 
   loop: true,               
