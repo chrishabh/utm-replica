@@ -9,10 +9,10 @@
                         <img src="{{ asset('assets/images/glyphs/location.gif') }}" alt="location" />
                         <div class="cta-text">
                             <h4>Find us</h4>
-                            <span>B-106, <br>
-                                R K Puram, <br>
-                                GovindPuram, <br>
-                                Ghaziabad - 201013 (U.P), <br>
+                            <span>Office 107, <br>
+                                Kanvi, <br>
+                                Nizampur, <br>
+                                Hapur - 245101 (U.P), <br>
                                 India.</span>
                         </div>
                     </div>
@@ -61,7 +61,7 @@
                             <a href="/"><img src= "{{asset('assets/images/logos/big-deal-logo.png')}}" class="img-fluid" alt="logo"></a>
                         </div>
                         <div class="footer-text">
-                            <p>BigLead is a digital agency offering a wide range of services designed to address every crucial aspect of digital media. In today’s ever-changing landscape and rapidly evolving technology, we remain committed to staying ahead by consistently monitoring and refining the solutions we provide.</p>
+                            <p>bigLead is a digital agency offering a wide range of services designed to address every crucial aspect of digital media. In today’s ever-changing landscape and rapidly evolving technology, we remain committed to staying ahead by consistently monitoring and refining the solutions we provide.</p>
                         </div>
                         <div class="footer-social-icon">
                             <span>Follow us</span>

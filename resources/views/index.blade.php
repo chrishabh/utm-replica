@@ -306,10 +306,10 @@
                                             </span>
                                             <div class="testinomial-text">
                                                 <p class="bottom-40">
-                                                BigLead transformed our online presence. Their innovative strategies and attention to detail have significantly boosted our customer engagement.
+                                                bigLead transformed our online presence. Their innovative strategies and attention to detail have significantly boosted our customer engagement.
                                                 </p>
                                                 <h5 class="name-testmonial">
-                                                John Smith
+                                                 Arjun Sharma
                                                 </h5>
                                             </div>
                                         </div>
@@ -321,9 +321,9 @@
                                             </span>
                                             <div class="testinomial-text">
                                                 <p class="bottom-40">
-                                                Working with BigLead has been a game-changer for our brand. Their creative team exceeded our expectations and delivered outstanding results.                                                </p>
+                                                Working with bigLead has been a game-changer for our brand. Their creative team exceeded our expectations and delivered outstanding results.                                                </p>
                                                 <h5 class="name-testmonial">
-                                                Emily Johnson
+                                                Priya Patel
                                                 </h5>
                                             </div>
                                         </div>
@@ -335,9 +335,9 @@
                                             </span>
                                             <div class="testinomial-text">
                                                 <p class="bottom-40">
-                                                The expertise at BigLead is unmatched. Their tailored solutions have helped us achieve our business goals seamlessly.                                                </p>
+                                                The expertise at bigLead is unmatched. Their tailored solutions have helped us achieve our business goals seamlessly.                                                </p>
                                                 <h5 class="name-testmonial">
-                                                Michael Davis
+                                                Ravi Verma
                                                 </h5>
                                             </div>
                                         </div>
@@ -349,9 +349,9 @@
                                             </span>
                                             <div class="testinomial-text">
                                                 <p class="bottom-40">
-                                                From start to finish, BigLead's team has been professional and supportive. They turned our vision into reality with impressive efficiency.                                                </p>
+                                                From start to finish, bigLead's team has been professional and supportive. They turned our vision into reality with impressive efficiency.                                                </p>
                                                 <h5 class="name-testmonial">
-                                                Sophia Martinez
+                                                Aditi Desai
                                                 </h5>
                                             </div>
                                         </div>
@@ -363,9 +363,9 @@
                                             </span>
                                             <div class="testinomial-text">
                                                 <p class="bottom-40">
-                                                BigLead's innovative approach to digital marketing has set us apart in a competitive market. Highly recommended!                                                </p>
+                                                bigLead's innovative approach to digital marketing has set us apart in a competitive market. Highly recommended!                                                </p>
                                                 <h5 class="name-testmonial">
-                                                James Brown
+                                                Karan Gupta
                                                 </h5>
                                             </div>
                                         </div>
@@ -377,9 +377,9 @@
                                             </span>
                                             <div class="testinomial-text">
                                                 <p class="bottom-40">
-                                                Thanks to BigLead, we’ve seen measurable growth in our online reach. Their team truly understands the digital space.                                                </p>
+                                                Thanks to bigLead, we’ve seen measurable growth in our online reach. Their team truly understands the digital space.                                                </p>
                                                 <h5 class="name-testmonial">
-                                                Olivia Wilson
+                                                Meera lyer
                                                 </h5>
                                             </div>
                                         </div>

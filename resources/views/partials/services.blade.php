@@ -26,7 +26,7 @@
             </div>
             <div class="col-6 services_rowRight">
                 <h2>Video Advertising</h2>
-                <h3>Our skilled team is ready to help you increase your click-through rates while reducing your cost per view. Let BigLEAD Digital make your video campaigns more impactful.</h3>
+                <h3>Our skilled team is ready to help you increase your click-through rates while reducing your cost per view. Let bigLEAD Digital make your video campaigns more impactful.</h3>
             </div>
         </div>
         <div class="row services_firstRow">
@@ -76,7 +76,7 @@
             </div>
             <div class="col-6 services_rowRight">
                 <h2>Media Buying</h2>
-                <h3>Media buying is a critical element of any digital campaign. BigLEAD Digital ensures your business reaches the right audience through comprehensive and optimized promotion strategies.</h3>
+                <h3>Media buying is a critical element of any digital campaign. bigLEAD Digital ensures your business reaches the right audience through comprehensive and optimized promotion strategies.</h3>
             </div>
         </div>
 

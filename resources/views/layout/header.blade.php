@@ -112,10 +112,10 @@
                                                     srcset="">
                                                 &nbsp;
                                                 <p>
-                                                    B-106, <br>
-                                                    R K Puram, <br>
-                                                    GovindPuram, <br>
-                                                    Ghaziabad - 201013 (U.P), <br>
+                                                    Office 107, <br>
+                                                    Kanvi, <br>
+                                                    Nizampur, <br>
+                                                    Hapur - 245101 (U.P), <br>
                                                     India.
                                                 </p>
                                             </div>

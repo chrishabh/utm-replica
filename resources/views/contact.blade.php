@@ -39,8 +39,8 @@
                             </div>
 
                             <div class="gmap" style="height: 99vh;position:relative;overflow:hidden">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d591.5470092119322!2d77.48115304910027!3d28.687847545216034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cf22e0248e2e3%3A0x53bb4a945581c9ca!2sB106%2C%20B-Block%2C%20RK%20Puram%2C%20Swaran%20Jayanti%20Puram%2C%20Govindpuram%2C%20Ghaziabad%2C%20Uttar%20Pradesh%20201013!5e0!3m2!1sen!2sin!4v1737225688037!5m2!1sen!2sin" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                                {{--  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d591.5470092119322!2d77.48115304910027!3d28.687847545216034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cf22e0248e2e3%3A0x53bb4a945581c9ca!2sB106%2C%20B-Block%2C%20RK%20Puram%2C%20Swaran%20Jayanti%20Puram%2C%20Govindpuram%2C%20Ghaziabad%2C%20Uttar%20Pradesh%20201013!5e0!3m2!1sen!2sin!4v1737225688037!5m2!1sen!2sin" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4792.928775954819!2d77.70547147165043!3d28.700602555375568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390c8fb0226ef125%3A0x77689c3a1f60866e!2sKanvi%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1737395654726!5m2!1sen!2sin" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                {{--  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4792.928775954819!2d77.70547147165043!3d28.700602555375568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390c8fb0226ef125%3A0x77689c3a1f60866e!2sKanvi%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1737395654726!5m2!1sen!2sin" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                  </div> --}}
                              </div> 
                             <!--End Contact Form-->
@@ -56,10 +56,10 @@
                                     <img src="assets/images/glyphs/globe.gif" alt="">
                                     &nbsp;
                                     <li>
-                                        B-106,
-                                        R K Puram,
-                                        GovindPuram,
-                                        Ghaziabad - 201013 (U.P),
+                                        Office 107,
+                                        Kanvi,
+                                        Nizampur,
+                                        Hapur - 245101 (U.P),
                                         India.
                                     </li>
                                 </div>
