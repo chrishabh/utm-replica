@@ -266,7 +266,7 @@ body {
     height: 100vh;
     position: relative;
     background-color: var(--background-color);
-    color: #FFF;
+    color: var(--text-color);
 }
 
 #hero #myCarousel {
@@ -348,14 +348,14 @@ h2 {
 
 .link a {
     text-decoration: none !important;
-    color: #fff;
+    color: var(--text-color);
     opacity: 0.7;
     text-transform: uppercase;
     cursor: pointer;
 }
 
 .link a:hover {
-    color: #fff;
+    color: var(--text-color);
     opacity: 1;
 }
 
@@ -450,7 +450,7 @@ h2 {
 }
 
 #arrow {
-    color: #fff;
+    color: var(--text-color);
     display: flex;
 }
 
@@ -459,7 +459,7 @@ h2 {
     height: 25px;
     background-color: transparent;
     border-radius: 50%;
-    border: 2px solid #FFF;
+    border: 2px solid var(--text-color);
     opacity: 0.7;
     display: flex;
     align-items: center;
@@ -470,7 +470,7 @@ h2 {
 
 #arrow .circle a {
     text-decoration: none;
-    color: #FFF;
+    color: var(--text-color);
 }
 
 #arrow .circle a img {
@@ -479,7 +479,7 @@ h2 {
 }
 
 #arrow .circle:hover {
-    border: 2px solid #FFF;
+    border: 2px solid var(--text-color);
     opacity: 1;
 }
 
@@ -556,7 +556,7 @@ h2 {
 }
 
 #menuNavbar__containerMenu a:hover {
-    color: #fff;
+    color: var(--text-color);
     opacity: 1;
 }
 
@@ -1045,7 +1045,7 @@ h4 {
     margin-left: 5%;
     margin-right: 5%;
     margin-bottom: 10rem;
-    color: #fff;
+    color: var(--text-color);
 }
 
 /* #testimonial .card1 {
@@ -1212,7 +1212,7 @@ h4 {
 }
 
 .comic-button:hover {
-    background-color: #fff;
+    background-color: var(--text-color);
     color: var(--primary-color);
     border: 2px solid #000;
     box-shadow: 5px 5px 5px #000;
@@ -1224,7 +1224,7 @@ h4 {
 }
 
 .comic-button:active {
-    color: #FFF;
+    color:var(--text-color);
     background-color: var(--secondary-color);
     box-shadow: none;
     transform: translateY(4px);
@@ -1275,7 +1275,7 @@ ul {
 }
 
 .sec-title.light h2 {
-    color: #fff
+    color: var(--text-color)
 }
 
 .contact-page-section {
@@ -1299,7 +1299,7 @@ ul {
 .contact-page-section .form-column .inner-column {
     position: relative;
     /* padding: 60px 45px 30px; */
-    background-color: #fff
+    background-color: var(--text-color)
 }
 
 .contact-page-section .info-column {
@@ -1313,7 +1313,7 @@ ul {
 
 .contact-page-section .info-column h2 {
     position: relative;
-    color: #fff;
+    color: var(--text-color);
     font-size: 30px;
     font-weight: 700;
     line-height: 1.4em;
@@ -1334,7 +1334,7 @@ ul {
     position: relative;
     margin-bottom: 25px;
     font-size: 18px;
-    color: #fff;
+    color: var(--text-color);
     line-height: 1.8em;
 }
 
@@ -1346,7 +1346,7 @@ ul {
     position: absolute;
     left: 0;
     top: 8px;
-    color: #fff;
+    color: var(--text-color);
     font-size: 30px
 }
 
@@ -1403,7 +1403,7 @@ ul {
     position: relative;
     line-height: 24px;
     cursor: pointer;
-    color: #fff
+    color: var(--text-color)
 }
 
 .contact-form .theme-btn:hover {
@@ -1440,7 +1440,7 @@ ul {
 }
 
 .social-icon-four li.follow {
-    color: #fff;
+    color: var(--text-color);
     font-weight: 600;
     font-size: 24px;
     display: block;
@@ -1450,7 +1450,7 @@ ul {
 .social-icon-four li a {
     position: relative;
     font-size: 20px;
-    color: #fff;
+    color: var(--text-color);
     -webkit-transition: all .3s ease;
     -ms-transition: all .3s ease;
     -o-transition: all .3s ease;
@@ -1481,7 +1481,7 @@ ul {
 .footer-container-columns {
     width: 20%;
     height: auto;
-    color: #fff;
+    color: var(--text-color);
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
@@ -1557,14 +1557,14 @@ ul {
 
 .sitemap ul li a {
     text-decoration: none !important;
-    color: #fff;
+    color: var(--text-color);
     opacity: 0.7;
     text-transform: uppercase;
     cursor: pointer;
 }
 
 .sitemap ul li a:hover {
-    color: #fff;
+    color: var(--text-color);
     opacity: 1;
 }
 
@@ -1614,14 +1614,14 @@ ul {
 
 .contact .email a {
     text-decoration: none !important;
-    color: #fff;
+    color: var(--text-color);
     opacity: 0.7;
     text-transform: uppercase;
     cursor: pointer;
 }
 
 .contact .email a:hover {
-    color: #fff;
+    color: var(--text-color);
     opacity: 1;
 }
 
@@ -1807,7 +1807,7 @@ ul {
     padding: 14px 28px;
     background: #2E2E2E;
     border: 1px solid #2E2E2E;
-    color: #fff;
+    color: var(--text-color);
 }
 
 .subscribe-form button {
@@ -1820,7 +1820,7 @@ ul {
 }
 
 .subscribe-form button svg {
-    color: #fff;
+    color: var(--text-color);
     font-size: 22px;
     transform: rotate(-6deg);
 }
@@ -1875,7 +1875,7 @@ ul {
     width: 100%;
     height: 100vh;
     margin-top: 10rem;
-    color: #fff;
+    color: var(--text-color);
     z-index: 999;
 }
 
@@ -1931,7 +1931,7 @@ ul {
         font-family: 'Poppins', sans-serif;
         font-size: 2.2rem;
         text-transform: uppercase;
-        color: #fff;
+        color: var(--text-color);
         opacity: 1;
         font-weight: 700;
         margin-left: 5px;
@@ -1956,7 +1956,7 @@ ul {
 
     #hero #hero__heading h5 {
         font-family: 'Poppins', sans-serif;
-        color: #fff;
+        color: var(--text-color);
         text-transform: uppercase;
         font-size: 1.25rem;
     }
@@ -1991,7 +1991,7 @@ ul {
 
     #social .link a {
         font-size: 1.45rem;
-        color: #FFF;
+        color: var(--text-color);
     }
 
     #hero__footer #scroll a h5 {
@@ -2003,7 +2003,7 @@ ul {
         height: 25px;
         background-color: transparent;
         border-radius: 50%;
-        border: 2px solid #FFF;
+        border: 2px solid var(--text-color);
         opacity: 0.7;
         display: flex;
         align-items: center;
@@ -2015,7 +2015,7 @@ ul {
     .menu {
         width: 100%;
         height: 100vh;
-        background-color: #212121;
+        background: var(--gradient-background);
         position: fixed;
         top: 0;
         transition: all 700ms ease-in-out;
@@ -2066,7 +2066,7 @@ ul {
 
     #navigation .navigation_container .nav__right .nav__rightTop {
         font-size: 1.5rem;
-        color: #fff;
+        color: var(--text-color);
         opacity: 0.8;
     }
 
@@ -2085,7 +2085,7 @@ ul {
     #navigation .navigation_container .nav__right .nav__rightMiddle .connect input[type="email"] {
         border: none;
         background-color: transparent;
-        color: #fff;
+        color: var(--text-color);
         font-size: 1.5rem;
         padding: 10px;
     }
@@ -2096,7 +2096,7 @@ ul {
 
     #navigation .navigation_container .nav__right .nav__rightBottom #social .link a {
         font-size: 2rem;
-        color: #FFF;
+        color: var(--text-color);
     }
 
     #navigation .navigation_container .nav__right .nav__rightTop .address {
@@ -2125,14 +2125,14 @@ ul {
         margin-left: 2%;
         margin-right: 2%;
         margin-bottom: 0rem;
-        color: #fff;
+        color: var(--text-color);
     }
 
     .brand_header {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
-        color: #fff;
+        color: var(--text-color);
         margin-top: 2rem;
         margin-bottom: 4rem;
         margin-left: 10%;
@@ -2163,7 +2163,7 @@ ul {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
-        color: #fff;
+        color: var(--text-color);
         margin-top: 10rem;
         margin-bottom: 5rem;
         margin-left: 10%;
@@ -2463,7 +2463,7 @@ ul {
         font-family: 'Poppins', sans-serif;
         font-size: 2.2rem;
         text-transform: uppercase;
-        color: #fff;
+        color: var(--text-color);
         opacity: 1;
         font-weight: 700;
         margin-left: 5px;
@@ -2488,7 +2488,7 @@ ul {
 
     #hero #hero__heading h5 {
         font-family: 'Poppins', sans-serif;
-        color: #fff;
+        color: var(--text-color);
         text-transform: uppercase;
         font-size: 1.25rem;
     }
@@ -2523,7 +2523,7 @@ ul {
 
     #social .link a {
         font-size: 1.45rem;
-        color: #FFF;
+        color: var(--text-color);
     }
 
     #hero__footer #scroll a h5 {
@@ -2535,7 +2535,7 @@ ul {
         height: 25px;
         background-color: transparent;
         border-radius: 50%;
-        border: 2px solid #FFF;
+        border: 2px solid var(--text-color);
         opacity: 0.7;
         display: flex;
         align-items: center;
@@ -2597,7 +2597,7 @@ ul {
 
     #navigation .navigation_container .nav__right .nav__rightTop {
         font-size: 1.5rem;
-        color: #fff;
+        color: var(--text-color);
         opacity: 0.8;
     }
 
@@ -2616,7 +2616,7 @@ ul {
     #navigation .navigation_container .nav__right .nav__rightMiddle .connect input[type="email"] {
         border: none;
         background-color: transparent;
-        color: #fff;
+        color: var(--text-color);
         font-size: 1.75rem;
         padding: 10px;
     }
@@ -2627,7 +2627,7 @@ ul {
 
     #navigation .navigation_container .nav__right .nav__rightBottom #social .link a {
         font-size: 2rem;
-        color: #FFF;
+        color: var(--text-color);
     }
 
     #hero #myCarousel {
@@ -2641,14 +2641,14 @@ ul {
         margin-left: 2%;
         margin-right: 2%;
         margin-bottom: 0rem;
-        color: #fff;
+        color: var(--text-color);
     }
 
     .brand_header {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
-        color: #fff;
+        color: var(--text-color);
         margin-top: 2rem;
         margin-bottom: 4rem;
         margin-left: 10%;
@@ -2679,7 +2679,7 @@ ul {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
-        color: #fff;
+        color: var(--text-color);
         margin-top: 10rem;
         margin-bottom: 5rem;
         margin-left: 10%;
@@ -2969,7 +2969,7 @@ ul {
         font-family: 'Poppins', sans-serif;
         font-size: 4.2rem;
         text-transform: uppercase;
-        color: #fff;
+        color: var(--text-color);
         opacity: 1;
         font-weight: 700;
         margin-left: 5px;
@@ -2994,7 +2994,7 @@ ul {
 
     #hero #hero__heading h5 {
         font-family: 'Poppins', sans-serif;
-        color: #fff;
+        color: var(--text-color);
         text-transform: uppercase;
         font-size: 1.25rem;
     }
@@ -3029,7 +3029,7 @@ ul {
 
     #social .link a {
         font-size: 1.45rem;
-        color: #FFF;
+        color: var(--text-color);
     }
 
     #hero__footer #scroll a h5 {
@@ -3041,7 +3041,7 @@ ul {
         height: 25px;
         background-color: transparent;
         border-radius: 50%;
-        border: 2px solid #FFF;
+        border: 2px solid var(--text-color);
         opacity: 0.7;
         display: flex;
         align-items: center;
@@ -3064,7 +3064,7 @@ ul {
         align-items: center;
         justify-content: space-between;
         padding: 0px 15px;
-        border-bottom: 1px solid #ccc;
+        border-bottom: 1px solid var(--text-color);
         margin-bottom: 0rem;
     }
 
@@ -3103,7 +3103,7 @@ ul {
 
     #navigation .navigation_container .nav__right .nav__rightTop {
         font-size: 1.5rem;
-        color: #fff;
+        color: var(--text-color);
         opacity: 0.8;
     }
 
@@ -3122,7 +3122,7 @@ ul {
     #navigation .navigation_container .nav__right .nav__rightMiddle .connect input[type="email"] {
         border: none;
         background-color: transparent;
-        color: #fff;
+        color: var(--text-color);
         font-size: 1.75rem;
         padding: 10px;
     }
@@ -3133,7 +3133,7 @@ ul {
 
     #navigation .navigation_container .nav__right .nav__rightBottom #social .link a {
         font-size: 2rem;
-        color: #FFF;
+        color: var(--text-color);
     }
 
     #hero #myCarousel {
@@ -3147,14 +3147,14 @@ ul {
         margin-left: 2%;
         margin-right: 2%;
         margin-bottom: 0rem;
-        color: #fff;
+        color: var(--text-color);
     }
 
     .brand_header {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
-        color: #fff;
+        color: var(--text-color);
         margin-top: 2rem;
         margin-bottom: 4rem;
         margin-left: 10%;
@@ -3185,7 +3185,7 @@ ul {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
-        color: #fff;
+        color: var(--text-color);
         margin-top: 10rem;
         margin-bottom: 5rem;
         margin-left: 10%;
