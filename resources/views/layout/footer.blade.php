@@ -61,7 +61,7 @@
                             <a href="/"><img src= "{{asset('assets/images/logos/big-deal-logo.png')}}" class="img-fluid" alt="logo"></a>
                         </div>
                         <div class="footer-text">
-                            <p>BigDeal is a digital agency offering a wide range of services designed to address every crucial aspect of digital media. In today’s ever-changing landscape and rapidly evolving technology, we remain committed to staying ahead by consistently monitoring and refining the solutions we provide.</p>
+                            <p>BigLead is a digital agency offering a wide range of services designed to address every crucial aspect of digital media. In today’s ever-changing landscape and rapidly evolving technology, we remain committed to staying ahead by consistently monitoring and refining the solutions we provide.</p>
                         </div>
                         <div class="footer-social-icon">
                             <span>Follow us</span>

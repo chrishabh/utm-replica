@@ -1805,7 +1805,7 @@ ul {
 .subscribe-form input {
     width: 100%;
     padding: 14px 28px;
-    background: #2E2E2E;
+    background: #fff;
     border: 1px solid #2E2E2E;
     color: var(--text-color);
 }

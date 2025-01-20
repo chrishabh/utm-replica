@@ -5,7 +5,7 @@
     </div>
     
     <div class="about_content" id="about-content">
-        <h4>Welcome to BigDeal! With over a decade of experience, we are a trusted authority in PPC management, mobile advertising, display campaigns, and remarketing strategies. Our mission is to help businesses achieve unparalleled visibility and engagement in the digital landscape.</h4>
+        <h4>Welcome to BigLead! With over a decade of experience, we are a trusted authority in PPC management, mobile advertising, display campaigns, and remarketing strategies. Our mission is to help businesses achieve unparalleled visibility and engagement in the digital landscape.</h4>
         <br>
         <h2>Proven Expertise, Tangible Results</h2>
         <h4>Our team of certified digital marketers has been driving success for more than five years. By crafting personalized PPC campaigns, we ensure your ad budget works smarter, delivering measurable results and driving growth. Our data-centric approach ensures every click counts, bringing you closer to your goals.</h4>
