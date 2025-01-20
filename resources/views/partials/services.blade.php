@@ -5,6 +5,19 @@
     </div>
 
     <div class="container-fluid services_container">
+    <div class="row services_secondRow">
+            <div class="col-6 services_rowLeft">
+                <div class="services_img">
+                    <img src="{{ asset('assets/images/creative/lead-gen.png') }}"
+                        alt="digial-shopping-media" srcset="">
+                </div>
+            </div>
+            <div class="col-6 services_rowRight">
+                <h2>Lead Generation</h2>
+                <h3>Our Cost Per Lead (CPL) service delivers verified, high-quality leads tailored to your criteria, ensuring you only pay for results. Using paid ads, social media, email marketing, and SEO, we help grow your customer base efficiently and transparently.</h3>
+            </div>
+        </div>
+
         <div class="row services_firstRow">
             <div class="col-6 services_rowLeft">
                 <h2>Search Engine Marketing</h2>
@@ -79,6 +92,6 @@
                 <h3>Media buying is a critical element of any digital campaign. bigLEAD Digital ensures your business reaches the right audience through comprehensive and optimized promotion strategies.</h3>
             </div>
         </div>
-
+      
     </div>
 </section>
